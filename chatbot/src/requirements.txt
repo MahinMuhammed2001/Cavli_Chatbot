@@ -1,0 +1,5 @@
+google-cloud-dialogflow
+nltk
+spacy
+requests
+rich
